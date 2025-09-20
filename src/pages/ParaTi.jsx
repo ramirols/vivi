@@ -98,7 +98,7 @@ Porque contigo no busco algo pasajero, no busco un juego ni un capricho. Contigo
 
 Si pudiera elegir entre miles de caminos, siempre elegiría el que me lleve hacia ti. Porque desde que llegaste a mi vida todo es distinto, siento que el destino nos unió de una manera inexplicable, y no quiero desperdiciar ni un segundo más sin demostrártelo.
 
-Así que aquí estoy, abriendo mi corazón sin miedo, diciéndote con toda sinceridad que te amo, que quiero que seas mi chica, que no quiero perder la oportunidad de hacerte feliz y de compartir mi vida contigo. Eres lo más hermoso que me ha pasado, y lo único que deseo es que podamos brillar juntos, porque sé que contigo todo vale la pena. Te amo Vivi"
+            Así que aquí estoy, abriendo mi corazón sin miedo, diciéndote con toda sinceridad que te amo, que quiero que seas mi chica, que no quiero perder la oportunidad de hacerte feliz y de compartir mi vida contigo. Eres lo más hermoso que me ha pasado, y lo único que deseo es que podamos brillar juntos, porque sé que contigo todo vale la pena. Y todo espero tiene que esperar, pero voy a tratar siempre de hacerte recordar lo que significas para mí"
               className="font-semibold text-center"
               delay={100}
               duration={0.6}
@@ -117,7 +117,7 @@ Así que aquí estoy, abriendo mi corazón sin miedo, diciéndote con toda since
 
           <div style={{ height: '200px', position: 'relative', margin: '0 auto' }}>
             <h1 style={{ textAlign: 'center', color: '#ffffff', fontSize: '2rem' }}>¿?</h1>
-            <Link to="https://youtu.be/4DDi7ptEtoc" target="_blank" rel="noopener noreferrer" style={{ textAlign: 'center', color: '#ffffff', fontSize: '2rem', backgroundColor: '#673996', padding: '1rem', borderRadius: '10px', cursor: 'pointer', transition: 'all 0.3s ease', display: 'block', margin: '0 auto', marginTop: '1rem' }}>
+            <Link to="https://youtu.be/ubJff-b6sMo?si=LTFCjcRTauXFsoYW" target="_blank" rel="noopener noreferrer" style={{ textAlign: 'center', color: '#ffffff', fontSize: '2rem', backgroundColor: '#673996', padding: '1rem', borderRadius: '10px', cursor: 'pointer', transition: 'all 0.3s ease', display: 'block', margin: '0 auto', marginTop: '1rem' }}>
               Dame click
             </Link>
           </div>
