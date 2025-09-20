@@ -98,7 +98,7 @@ Porque contigo no busco algo pasajero, no busco un juego ni un capricho. Contigo
 
 Si pudiera elegir entre miles de caminos, siempre elegiría el que me lleve hacia ti. Porque desde que llegaste a mi vida todo es distinto, siento que el destino nos unió de una manera inexplicable, y no quiero desperdiciar ni un segundo más sin demostrártelo.
 
-            Así que aquí estoy, abriendo mi corazón sin miedo, diciéndote con toda sinceridad que te amo, que quiero que seas mi chica, que no quiero perder la oportunidad de hacerte feliz y de compartir mi vida contigo. Eres lo más hermoso que me ha pasado, y lo único que deseo es que podamos brillar juntos, porque sé que contigo todo vale la pena. Y todo espero tiene que esperar, pero voy a tratar siempre de hacerte recordar lo que significas para mí"
+            Así que aquí estoy, abriendo mi corazón sin miedo, diciéndote con toda sinceridad que te amo, que quiero que seas mi chica, que no quiero perder la oportunidad de hacerte feliz y de compartir mi vida contigo. Eres lo más hermoso que me ha pasado, y lo único que deseo es que podamos brillar juntos, porque sé que contigo todo vale la pena. Y todo esto tiene que esperar, pero voy a tratar siempre de hacerte recordar lo que significas para mí"
               className="font-semibold text-center"
               delay={100}
               duration={0.6}
